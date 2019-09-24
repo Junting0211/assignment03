@@ -9,7 +9,7 @@ Under this page we will refer to the different students we chose for our web pag
 * Each person has basic information 
 * Each person has a background
 * Each person has work experience
-* Each soccer has been involved in different activities
+* Each person has been involved in different activities
 
 ## Taxonomy
 * Name
