@@ -22,25 +22,3 @@ Under this page we will refer to the different students we chose for our web pag
 ## Coreography
 The order starts basic and information about each person, which will be the index page. Then it will continue with each person's background to understand their origins and what brought them to UofR. Following with their work experiences and ending with different activities they are or have been involved with. 
 
-Dewey Bazirake
-=============
-## Basic Information (Index)
-## Background
-## Work
-## Activities
-
-
-Islomzhan Akhmedov
-=============
-## Basic Information (Index)
-## Background
-## Work
-## Activities
-
-
-Jialin Huo
-=============
-## Basic Information (Index)
-## Background
-## Work
-## Activities
