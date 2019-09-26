@@ -131,7 +131,7 @@ nav li {
 	max-width: 960px;
 
 	display: grid;
-	grid-template-columns: 260px 1fr 200px;
+	grid-template-columns: auto auto auto;
 }
 @media ( max-width: 375px ) {
 	.container { display: block; }
