@@ -1,16 +1,16 @@
-@import url('https://fonts.googleapis.com/css?family=Notable|Noto+Serif|Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch|Oswald|Telex&display=swap');
 /*	*************************************************
 	BASE
 	************************************************* */
 body {
-	font-family: 'Noto Serif', serif;
+	font-family: 'Telex', sans-serif;
 	font-size: x-large;
 	color: #333333;
 	line-height: 1.5em;
 }
 
 h1, h2, h3 {
-	font-family: 'Notable', sans-serif;
+	font-family: 'Cabin Sketch', cursive;
 	letter-spacing: 0.15em;
 	color: #1E90FF;
 	margin-bottom: 0;
