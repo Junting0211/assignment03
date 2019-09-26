@@ -12,7 +12,7 @@ body {
 h1, h2, h3 {
 	font-family: 'Mansalva', cursive;
 	letter-spacing: 0.15em;
-	color: #B0E0E6;
+	color: #1E90FF;
 	margin-bottom: 0;
 }
 h1 + p { margin-top: 0.5em; }
