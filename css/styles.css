@@ -157,11 +157,11 @@ footer { grid-column: 2/ 2; }
 	************************************************* */
 .menu a.is-current {
 		background-color:#E0FFFF;
-		color: white;
+		color: black;
 	}
 .is-current{
 		background-color:#E0FFFF;
-		color: white;
+		color: black;
 	}
 .container{
 	display:grid;
