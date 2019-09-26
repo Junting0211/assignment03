@@ -71,13 +71,15 @@ aside {
 	font-style: italic;
 	font-size: 20px;
 	line-height: 30px;
-	border: 3px solid grey;
 	padding: 15px;
-	border-radius: 15px;
-	box-shadow: 4px 5px 5px 0px #7D3C98;
+	box-shadow: 4px 5px 5px 0px #87CEFA;
 	width: 50%;
 	margin-left: 60px;
 	color:black;
+}
+
+.about_cs a {
+ color:87CEEB;
 }
 aside ul {
 	padding-left: 55px;

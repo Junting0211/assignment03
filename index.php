@@ -21,9 +21,9 @@
 
 	<aside>
 		<ul>
-			<li>Passionate about CS</li>
-			<li>University of Rochester Students</li>
-			<li>Senior Year</li>
+			<li class="about_cs">Passionate about CS</li>
+			<li class="student">University of Rochester Students</li>
+			<li class="senior">Senior Year</li>
 		</ul>
 	</aside>
 
