@@ -56,7 +56,6 @@ header h1 {
 header img {
     position: relative;
 	left: 40px;
-	box-shadow: 5px 5px #B0E0E6;
 	padding-top: 50px;
 }
 
@@ -157,11 +156,11 @@ footer { grid-column: 2/ 2; }
 	STATE
 	************************************************* */
 .menu a.is-current {
-		background-color: #BA55D3;
+		background-color:#E0FFFF;
 		color: white;
 	}
 .is-current{
-		background-color:#E6E6FA ;
+		background-color:#E0FFFF;
 		color: white;
 	}
 .container{
@@ -169,14 +168,14 @@ footer { grid-column: 2/ 2; }
 	grid-template-columns: 260px 2fr 200px;
 }
 nav.sub-menus{
-	color:#663399;
+	color:#1E90FF;
 	grid-column: 2/4;
 	grid-row: 2/5;
 	margin-right:180px;
 }
 
 nav.sub-menus a{
-	color:#663399;
+	color:#1E90FF;
 }
 
 nav.main-menu{
@@ -187,13 +186,13 @@ nav.main-menu{
   left: 0;
   z-index: 9999;
   width: 100%;
-	background-color: #663399;
+	background-color: #1E90FF;
 	text-align: center;
  	 height: 35px;
 
 }
 nav.main-menu a{
-   color: #EE82EE;
+   color: #E0FFFF;
    text-transform: bold;
 }
 
