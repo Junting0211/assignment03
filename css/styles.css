@@ -1,16 +1,16 @@
-@import url('https://fonts.googleapis.com/css?family=Mansalva|Mukta|Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Notable|Noto+Serif|Oswald&display=swap');
 /*	*************************************************
 	BASE
 	************************************************* */
 body {
-	font-family: 'Mukta', sans-serif;
+	font-family: 'Noto Serif', serif;
 	font-size: x-large;
 	color: #333333;
 	line-height: 1.5em;
 }
 
 h1, h2, h3 {
-	font-family: 'Mansalva', cursive;
+	font-family: 'Notable', sans-serif;
 	letter-spacing: 0.15em;
 	color: #1E90FF;
 	margin-bottom: 0;
