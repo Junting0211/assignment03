@@ -141,7 +141,7 @@ main { grid-column: 1 / 4;
 	margin-top:25px;
 	background-image:url(../images/logo_cs.png); 
 	background-repeat: no-repeat;
-	background-position:left center;
+	background-position:left top;
 }
 header {
 	grid-column: 1 / 2; 
