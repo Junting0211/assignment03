@@ -146,13 +146,13 @@ main { grid-column: 1 / 4;
 
 .column1 {
 	background-repeat: no-repeat;
-	background-position:left top;
+	background-position:left;
 	margin-top:15px;
 	margin-left: 60px;
 }
 .column2 {
 	background-repeat: no-repeat;
-	background-position:left top;
+	background-position:left;
 	margin-left: 60px;
 }
 header {
