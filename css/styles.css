@@ -139,18 +139,17 @@ nav li {
 
 main { grid-column: 1 / 4; 
 	margin-top:25px;
-	background-image:url(../images/logo_cs.png); 
-	background-repeat: no-repeat;
-	background-position:left top;
 }
 
 .column1 {
+	background-image:url(../images/logo_cs.png);
 	background-repeat: no-repeat;
 	background-position:left;
 	margin-top:15px;
 	margin-left: 60px;
 }
 .column2 {
+	background-image:url(../images/logo_cs.png);
 	background-repeat: no-repeat;
 	background-position:left;
 	margin-left: 60px;
