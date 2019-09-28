@@ -144,6 +144,9 @@ main { grid-column: 1 / 4;
 	background-position:left top;
 }
 
+.column1 {
+	margin-top:5px;
+}
 .column2 {
 	background-image:url(../images/logo_cs.png); 
 	background-repeat: no-repeat;
