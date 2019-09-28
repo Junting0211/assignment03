@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch|Noto+Sans+TC|Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch|Nunito+Sans|Oswald&display=swap');
 /*	*************************************************
 	BASE
 	************************************************* */
 body {
-	font-family: 'Noto Sans TC', sans-serif;
+	font-family: 'Nunito Sans', sans-serif;
 	font-size: x-large;
 	color: #333333;
 	line-height: 1.5em;
