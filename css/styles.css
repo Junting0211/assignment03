@@ -73,20 +73,12 @@ aside {
 	font-size: 20px;
 	line-height: 30px;
 	padding: 10px;
-	padding-left:80px;
 	box-shadow: 4px 5px 5px 0px #87CEFA;
 	width: 80%;
 	margin-left: 60px;
 	color:black;
 }
 
-
-.about_cs, .student, .senior  {
-	background-image:url(../images/logo_cs.png); 
-	background-repeat: no-repeat;
-	background-position: left;
-
-}
 
 aside ul {
 	padding-left: 55px;
