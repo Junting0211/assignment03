@@ -145,13 +145,15 @@ main { grid-column: 1 / 4;
 }
 
 .column1 {
+	background-repeat: no-repeat;
+	background-position:left top;
 	margin-top:15px;
-	margin-left: 40px;
+	margin-left: 60px;
 }
 .column2 {
 	background-repeat: no-repeat;
 	background-position:left top;
-	margin-left: 40px;
+	margin-left: 60px;
 }
 header {
 	grid-column: 1 / 2; 
