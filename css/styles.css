@@ -144,14 +144,14 @@ main { grid-column: 1 / 4;
 .column1 {
 	background-image:url(../images/logo_cs.png);
 	background-repeat: no-repeat;
-	background-position:left;
+	background-position:left top;
 	margin-top:15px;
 	margin-left: 60px;
 }
 .column2 {
 	background-image:url(../images/logo_cs.png);
 	background-repeat: no-repeat;
-	background-position:left;
+	background-position:left top;
 	margin-left: 60px;
 }
 header {
