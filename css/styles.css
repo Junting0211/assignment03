@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch|Oswald|Pangolin&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch|Noto+Sans+TC|Oswald&display=swap');
 /*	*************************************************
 	BASE
 	************************************************* */
 body {
-	font-family: 'Pangolin', cursive;
+	font-family: 'Noto Sans TC', sans-serif;
 	font-size: x-large;
 	color: #333333;
 	line-height: 1.5em;
@@ -58,10 +58,7 @@ header img {
     position: relative;
 	left: 40px;
 	padding-top: 50px;
-	box-shadow: 10px 10px 5px #ccc;
-	-moz-box-shadow: 10px 10px 5px #ccc;
-	-webkit-box-shadow: 10px 10px 5px #ccc;
-	-khtml-box-shadow: 10px 10px 5px #ccc;
+	box-shadow: 4px 4px 5px #ccc;
 }
 
 /*	*************************************************
@@ -147,7 +144,6 @@ main { grid-column: 1 / 4;
 	background-image:url(../images/logo_cs.png); 
 	background-repeat: no-repeat;
 	background-position:left top;
-	box-shadow: 4px 5px 5px 0px #87CEFA;
 }
 header {
 	grid-column: 1 / 2; 
