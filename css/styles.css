@@ -54,6 +54,9 @@ header h1 {
     left: 380px;
 }
 header img {
+	width: 400px;
+    height: 200px;
+    border:2px solid #fff;
     position: relative;
 	left: 40px;
 	padding-top: 50px;
