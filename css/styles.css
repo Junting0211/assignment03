@@ -78,7 +78,7 @@ aside {
 	color:black;
 }
 
-aside: hover { background: #4682B4; }
+aside.a { background: #4682B4; }
 
 aside ul {
 	padding-left: 55px;
