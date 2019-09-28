@@ -140,7 +140,9 @@ nav li {
 main { grid-column: 1 / 4; 
 	margin-top:25px;
 	background-image:url(../images/logo_cs.png); 
-	background-repeat: no-repeat;}
+	background-repeat: no-repeat;
+	background-position:left center;
+}
 header {
 	grid-column: 1 / 2; 
 	grid-row: 1 / 3;
