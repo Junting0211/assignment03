@@ -77,23 +77,12 @@ aside {
 }
 
 
-.about_cs  {
+.about_cs, .student, .senior  {
 	background-image:url(../images/logo_cs.png); 
 	background-repeat: no-repeat;
-	background-position: center left;
+	background-position: left;
 }
 
-.student {
-	background-image:url(../images/logo_cs.png); 
-	background-repeat: no-repeat;
-	background-position: center left;
-}
-
-.senior {
-	background-image:url(../images/logo_cs.png); 
-	background-repeat: no-repeat;
-	background-position: center left;
-}
 aside ul {
 	padding-left: 55px;
 }
