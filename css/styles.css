@@ -10,9 +10,6 @@ body {
 }
 
 h1, h2, h3 {
-	background-image:url(../images/logo_cs.png); 
-	background-repeat: no-repeat;
-	background-position: left;
 	font-family: 'Cabin Sketch', cursive;
 	letter-spacing: 0.15em;
 	color: #1E90FF;
@@ -75,7 +72,7 @@ aside {
 	padding: 10px;
 	box-shadow: 4px 5px 5px 0px #87CEFA;
 	width: 80%;
-	margin-left: 60px;
+	margin-left: 100px;
 	color:black;
 }
 
