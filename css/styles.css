@@ -57,6 +57,12 @@ header img {
     position: relative;
 	left: 40px;
 	padding-top: 50px;
+	-moz-box-shadow: 10px 10px 5px #ccc;
+  	-webkit-box-shadow: 10px 10px 5px #ccc;
+  	box-shadow: 10px 10px 5px #ccc;
+  	-moz-border-radius:25px;
+  	-webkit-border-radius:25px;
+  	border-radius:25px;
 }
 
 /*	*************************************************
@@ -142,6 +148,7 @@ main { grid-column: 1 / 4;
 	background-image:url(../images/logo_cs.png); 
 	background-repeat: no-repeat;
 	background-position:left top;
+	box-shadow: 4px 5px 5px 0px #87CEFA;
 }
 header {
 	grid-column: 1 / 2; 
