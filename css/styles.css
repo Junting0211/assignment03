@@ -56,8 +56,7 @@ header h1 {
 header img {
     position: relative;
 	left: 40px;
-	padding-top: 50px;
-	border: 4px solid #1E90FF ;
+	padding-top: 50px; ;
 }
 
 /*	*************************************************
@@ -140,6 +139,12 @@ nav li {
 
 main { grid-column: 1 / 4; 
 	margin-top:25px;
+	background-image:url(../images/logo_cs.png); 
+	background-repeat: no-repeat;
+	background-position:left top;
+}
+
+.column2 {
 	background-image:url(../images/logo_cs.png); 
 	background-repeat: no-repeat;
 	background-position:left top;
