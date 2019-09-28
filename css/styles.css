@@ -138,7 +138,9 @@ nav li {
 }
 
 main { grid-column: 1 / 4; 
-	margin-top:25px;
+	   margin-top:25px;
+	   background: black;
+	   color: #00BFFF
 }
 
 .column1 {
