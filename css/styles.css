@@ -146,12 +146,12 @@ main { grid-column: 1 / 4;
 
 .column1 {
 	margin-top:15px;
-	left: 40px;
+	margin-left: 40px;
 }
 .column2 {
 	background-repeat: no-repeat;
 	background-position:left top;
-	left: 40px;
+	margin-left: 40px;
 }
 header {
 	grid-column: 1 / 2; 
