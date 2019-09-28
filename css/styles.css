@@ -148,7 +148,6 @@ main { grid-column: 1 / 4;
 	margin-top:15px;
 }
 .column2 {
-	background-image:url(../images/logo_cs.png); 
 	background-repeat: no-repeat;
 	background-position:left top;
 }
