@@ -159,6 +159,7 @@ nav {
 footer { grid-column: 2/ 2;
 	background-image:url(../images/logo_cs.png); 
 	background-repeat: no-repeat;
+	background-position: left top;
 	padding-left:50px;}
 
 @media ( max-width: 375px ) {
