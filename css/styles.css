@@ -151,10 +151,8 @@ nav {
 	grid-column: 2 / 4; 
 	grid-row: 4 / 5;
 }
-footer { grid-column: 2/ 2;
-	background-image:url(../images/logo_cs.png); 
-	background-repeat: no-repeat;
-	background-position:left; }
+footer { grid-column: 2/ 2;}
+
 @media ( max-width: 375px ) {
 	footer { margin-bottom: 15px; }
 }
