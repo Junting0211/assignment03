@@ -81,6 +81,8 @@ aside {
 	background-image:url(../images/logo_cs.png); 
 	background-repeat: no-repeat;
 	background-position: left;
+	padding-right:25px;
+
 }
 
 aside ul {
