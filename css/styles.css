@@ -55,9 +55,10 @@ header h1 {
 }
 header img {
     position: relative;
-	left: 160px;
+	left: 180px;
 	padding-top: 50px; 
 	width: 24.99999%;;
+	border-radius:80%;
 }
 
 /*	*************************************************
