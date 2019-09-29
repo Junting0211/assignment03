@@ -72,11 +72,12 @@ aside {
 	font-style: italic;
 	font-size: 20px;
 	line-height: 30px;
-	padding: 10px;
+	padding: 2px;
 	box-shadow: 4px 5px 5px 0px #87CEFA;
 	width: 70%;
-	margin-left: 55px;
+	margin-left: 60px;
 	color:black;
+
 }
 
 aside:hover { background:#F0F8FF; }
@@ -186,7 +187,7 @@ footer { grid-column: 2/ 2;
 }
 nav.sub-menus{
 	color:#1E90FF;
-	margin-top:20px;
+	margin-top:300px;
 	grid-column: 2/2;
 	grid-row: 1/5;
 }
@@ -203,7 +204,7 @@ nav.main-menu{
   left: 0;
   z-index: 9999;
   width: 100%;
-	background-color: #1E90FF;
+	background-color: #0066cc;
 	text-align: center;
  	 height: 35px;
 
@@ -217,7 +218,6 @@ nav.main-menu a{
 	float: left;
 	width: 450px;
 	padding: 10px;
-	
 	
   }
   
