@@ -187,9 +187,8 @@ footer { grid-column: 2/ 2;
 nav.sub-menus{
 	color:#1E90FF;
 	margin-top:20px;
-	grid-column: 1/4;
+	grid-column: 2/2;
 	grid-row: 3/5;
-	margin-right:180px;
 }
 
 nav.sub-menus a{
