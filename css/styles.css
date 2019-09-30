@@ -11,13 +11,12 @@ body {
 	line-height: 1.5em;
 }
 
-h1, h2, h3 {
+h1 {
 	font-family: 'Cabin Sketch', cursive;
 	letter-spacing: 0.15em;
 	color: #1E90FF;
 	margin-bottom: 0;
 }
-h1 + p { margin-top: 0.5em; }
 
 
 a {
@@ -30,7 +29,7 @@ a:hover {
 	color: gray;
 }
 a:hover img {
-	opacity: 0.7;
+	opacity: 0.8;
 }
 
 ul {
