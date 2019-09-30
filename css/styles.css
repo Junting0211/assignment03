@@ -124,7 +124,7 @@ nav li {
 	LAYOUT
 	************************************************* */
 
-/* THIS IS NEW */
+/* THIS IS NEW, home navigation  */
 .home_nav{
 	grid-column: 1/4;
 	grid-row: 1/3;
