@@ -2,6 +2,8 @@
 /*	*************************************************
 	BASE
 	************************************************* */
+
+/*css based on http://csc174.org/assignment02/quito/index.php */
 body {
 	font-family: 'Nunito Sans', sans-serif;
 	font-size: x-large;
@@ -16,6 +18,7 @@ h1, h2, h3 {
 	margin-bottom: 0;
 }
 h1 + p { margin-top: 0.5em; }
+
 
 a {
 	display: block;
@@ -209,6 +212,7 @@ nav.main-menu{
  	 height: 35px;
 
 }
+
 nav.main-menu a{
    color: black;
 }
